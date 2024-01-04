@@ -40,6 +40,7 @@ Add-PnPCustomAction -ClientSideComponentId "<id of app>" -Name "DynamicFavicon" 
 
 
 ###################################################################
+
 original source 
 
 https://sharepoint.handsontek.net/2018/08/24/change-favicon-on-modern-sharepoint-sites/
