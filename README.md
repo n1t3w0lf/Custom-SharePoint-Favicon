@@ -1,10 +1,14 @@
 created with spfx 1.17 
 
-install powershell7 install .net4 
+install powershell7 
 
-open powershell7 install PNP commandline tools by issuing the below command: 
+install .net4 
+
+open powershell7 install PNP command line tools by issuing the below command: 
 
 Install-Module PnP.PowerShell 
+
+version PnP.PowerShell 2.3.0
 
 ###################################################################
 
