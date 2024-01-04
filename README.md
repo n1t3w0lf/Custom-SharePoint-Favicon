@@ -1,4 +1,4 @@
-created with spfx 1.17 
+created with spfx 1.17 and using pnp powershell version PnP.PowerShell 2.3.0
 
 install powershell7 
 
@@ -8,7 +8,7 @@ open powershell7 install PNP command line tools by issuing the below command:
 
 Install-Module PnP.PowerShell 
 
-version PnP.PowerShell 2.3.0
+
 
 ###################################################################
 
@@ -48,3 +48,10 @@ Add-PnPCustomAction -ClientSideComponentId "<id of app>" -Name "DynamicFavicon" 
 original source 
 
 https://sharepoint.handsontek.net/2018/08/24/change-favicon-on-modern-sharepoint-sites/
+
+
+###################################################################
+
+pnp resources
+
+https://pnp.github.io/powershell/articles/installation.html
