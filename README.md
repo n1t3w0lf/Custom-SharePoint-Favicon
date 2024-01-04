@@ -1,3 +1,5 @@
+clone repo
+
 edit serve.json and update pageurl
 
 build solution 
