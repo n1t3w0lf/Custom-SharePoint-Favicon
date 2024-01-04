@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+    <CustomAction
+        Title="DynamicFavicon"
+        Location="ClientSideExtension.ApplicationCustomizer"
+        ClientSideComponentId="e88ce305-4724-458e-abca-306c2eadac62"
+        ClientSideComponentProperties="{&quot;testMessage&quot;:&quot;Test message&quot;}">
+    </CustomAction>
+</Elements>

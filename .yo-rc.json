@@ -1,0 +1,22 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "16.18.1",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.9.1"
+    },
+    "version": "1.17.4",
+    "libraryName": "dynamic-favicon",
+    "libraryId": "364cfbd7-7d64-49f9-b311-0799cad70365",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "dynamic-favicon",
+    "solutionShortDescription": "dynamic-favicon description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "extension",
+    "extensionType": "ApplicationCustomizer"
+  }
+}
